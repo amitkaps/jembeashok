@@ -38,6 +38,11 @@ section.acting {
 	background-color: #EFECCA;
 }
 
+section.coaching {
+	background-color: #FCFFF5;
+}
+
+
 .container {
 	max-width: 60em;
 	margin: 1em auto;
@@ -57,7 +62,7 @@ h3 {
 
 
 img.stills {
-	padding: 1em 1em;
+	padding: 1em 4em;
 }
 
 iframe {
