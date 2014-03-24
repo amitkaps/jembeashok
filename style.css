@@ -65,6 +65,11 @@ img.stills {
 	padding: 1em 4em;
 }
 
+img.workshop {
+	padding: 1em 4em;
+	float: right;
+}
+
 iframe {
 	padding: 1em 1em;
 }
