@@ -30,15 +30,15 @@ section {
 	padding: 2em 1em;
 }
 
-section.music {
+section#music {
 	background-color: #D1DBBD;
 }
 
-section.acting {
+section#acting {
 	background-color: #EFECCA;
 }
 
-section.coaching {
+section#coaching {
 	background-color: #FCFFF5;
 }
 
