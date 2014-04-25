@@ -60,9 +60,16 @@ h3 {
 	padding: 1em 1em;
 }
 
+.tagline {
+	color: darkblue;
+}
 
 img.stills {
 	padding: 1em 4em;
+}
+
+img.large {
+	max-width: 100%;
 }
 
 img.workshop {
