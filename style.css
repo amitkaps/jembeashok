@@ -42,6 +42,9 @@ section#workshop {
 	background-color: #FCFFF5;
 }
 
+section#upcoming {
+	background-color: #CECBCB;
+}
 
 .container {
 	max-width: 60em;
