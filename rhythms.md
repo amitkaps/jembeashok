@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 ---
 
 ## Rhythms & Exercises
@@ -113,7 +113,7 @@ layout: default
 <br>
 
 
-### Legend: Reading the Tablature.
+### How to read the tablature
 <div class="verbal">
   <p><span class="djembe">b</span> &nbsp; bass (full hand) &nbsp;&nbsp;</p>
   <p><span class="djembe">s</span> &nbsp; slap (half hand) &nbsp;&nbsp;</p>

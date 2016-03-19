@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 ---
 
 <img class="lead" src="../img/quotes/change.png" title="Quotes - Change" />
