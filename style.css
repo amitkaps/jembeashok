@@ -14,17 +14,30 @@ body {
 	text-rendering: optimizeLegibility;
 	padding: 0;
 	margin: 0 auto;
+  background-color: whitesmoke;
 }
 
 header {
 	padding: 1em 1em;
-	background-color: whitesmoke;
+  background: url(img/ashok3.jpg) no-repeat center center fixed ;
+  background-size: cover;
+  opacity: 1;
 }
 
 h1 {
 	font-family: 'Kaushan Script', cursive;
 	font-size: 3em;
 	text-align: center;
+}
+
+h1 > a {
+  text-decoration: none;
+  color: black;
+}
+
+blockquote {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 1.3em;
 }
 
 .contact {
@@ -78,9 +91,11 @@ h3 {
 	color: darkblue;
 }
 
+
 img {
 	padding: 1em 4em;
 }
+
 
 img.workshop {
 	float: right;
