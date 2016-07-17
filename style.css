@@ -36,8 +36,8 @@ h1 > a {
 }
 
 blockquote {
-	font-family: 'Kaushan Script', cursive;
-	font-size: 1.3em;
+	font-size: 1.2em;
+  font-style: italic;
 }
 
 .contact {
