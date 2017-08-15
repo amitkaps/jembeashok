@@ -1,5 +1,7 @@
 ---
 layout: default
+name: rhythms
+permalink: rhythms
 ---
 
 ## Rhythms & Exercises

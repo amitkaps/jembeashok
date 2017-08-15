@@ -3,3 +3,7 @@ description: "Jembe Ashok - Kannada Actor - Theatre and Films, Acting Coach and 
 
 permalink: pretty
 markdown: kramdown
+
+collections:
+  pages:
+    output: True

@@ -4,9 +4,7 @@ name: training
 permalink: training
 ---
 
-## Coaching & Training
-
-### Acting Coach & Theatre Workshops
+## Acting Coach & Theatre Workshops
 
 I conduct theatre workshop for new and upcoming actors, as well as corporates
 
@@ -19,15 +17,14 @@ I have extensively used theatre in the field of education and have presented a m
 
 I have also used theatre as a medium of commuincation in the education and corporate sector, having done stress management, team building workshops for companies like Motorola, Msource, educational institutes like Christ University, IIMB, Azim Premji University & for social organisations like Quest, Madhyam, Eklavaya, Natya Chetna, BITA (Bangladesh) etc.
 
-### Film Acting Workshop
+## Film Acting Workshop
 
 This workshop is my humble effort to share 20 years of my acting experience across theatre, film and television. This course is designed for upcoming actors who have some acting experience in these mediums and feel the need to further develop their skills. This will be held as an intensive workshop of about 15 sessions of 3 hours each, across two weeks. The number of actors will be restricted to 15 to ensure personalised attention can be provided. This will give each actor an opportunity to work on their specific areas of focus and improvement e.g. body language, voice and modulation, effective dialogue delivery etc.
 
 <a href="img/film_acting_workshop.png">
 <img class="workshop" src="img/film_acting_workshop_small.png" title="Film Acting workshop by Ashok">
 </a>
-
-**Topics to be covered**
+**Course Content**
 
 1. Learning basics - body & voice
 - Relaxing physical & mental tension
@@ -68,9 +65,9 @@ This workshop is my humble effort to share 20 years of my acting experience acro
 - Methods of memorising the dialogue
 - Effective dialogue delivery
 
-### Jembe Workshop
+## Jembe Workshop
 
-Music (djembe) is about discovery – finding our own rhythm when we are alone or when we are part of a group. I conduct jembe workshops like drum circles for corporates in small group settings. Some of the recent corporate clients have been ARM, Oracle, Cyient etc.. These workshops are designed to use rhythm and music as a medium for team building and leadership skills. They can be structured as either a half day session or a full day session. Some activites conducted in the workshop are listed below.
+Music (djembe) is about discovery – finding our own rhythm when we are alone or when we are part of a group. I conduct jembe workshops for corporates, NGO and education institutes in small group settings. Some of the recent corporate clients have been ARM, Oracle, Cyient etc.. These workshops are designed to use rhythm and music as a medium for team building and leadership skills. They can be structured as either a half day session or a full day session. Some activites conducted in the workshop are listed below.
 
 *   **Start with Rhythm** - Clap, speak, walk but do that all in a rhythm
 *   **Drum it Up** - Introduce the drums and play with some simple rhythms
@@ -89,7 +86,9 @@ Music (djembe) is about discovery – finding our own rhythm when we are alone o
 
 **Email**: [jembeashok@yahoo.com](mailto:jembeashok@yahoo.com?Subject=Jembe_Workshop)
 
+<p>
 <iframe width="420" height="236" src="//www.youtube.com/embed/N0e2RguK3O4?rel=0" frameborder="0" allowfullscreen=""> </iframe>
+</p>
 
 ### Jembe One-to-One Coaching
 
@@ -137,4 +136,6 @@ I have co-developed (with [Amit](http://amitkaps.com)) this unique workshop expe
 
 Find out more at at [Utsmaya](http://amitkaps.com/utsmaya)
 
+<p>
 <iframe src="//player.vimeo.com/video/65455788?byline=0&amp;portrait=0&amp;color=ff9933" width="300" height="533" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><iframe src="//player.vimeo.com/video/65293766?byline=0&amp;portrait=0&amp;color=ff9933" width="300" height="533" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</p>

@@ -23,23 +23,3 @@ permalink: contact
 *   [Music out of nothing](http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/music-out-of-nothing/article1430022.ece) (The Hindu - Nov 27, 2008)
 *   [Shoonya: Experiments with music, instruments](http://timesofindia.indiatimes.com/city/bangalore/Shoonya-Experiments-with-music-instruments/articleshow/1437755.cms) (The Times of India - Mar 4, 2006)
 *   [Melody from Shoonya](http://archive.deccanherald.com/Deccanherald/mar102006/metro133142200639.asp) (Deccan Herald - Mar 10, 2006)
-
-
-## Photos
-
-[![](img/ashok1.jpg "Ashok Kumar")](img/ashok1_large.jpg)
-[![](img/ashok2.jpg "Ashok Kumar")](img/ashok2_large.jpg)
-[![](img/HongKong_Concert1_small.jpg "Ashok performing in Hong Kong")](img/HongKong_Concert1.jpg)
-[![](img/HongKong_Concert2_small.jpg "Ashok performing in Hong Kong")](img/HongKong_Concert2.jpg)
-[![](img/HongKong_Workshop_Children1_small.jpg "Ashok's Worshop with School Children in Hong Kong")](img/HongKong_Workshop_Children1.jpg)
-[![](img/HongKong_Workshop_Children2_small.jpg "Ashok's Worshop with School Children in Hong Kong")](img/HongKong_Workshop_Children2.jpg)
-[![](img/ashok_dancing_small.jpg "Ashok Dancing")](img/ashok_dancing.jpg)
-[![](img/dancing_soul2_small.jpg "Ashok Kumar")](img/dancing_soul2.jpg)
-
-[![](img/workshop1_small.jpg "Ashok conducting Jembe Course")](img/workshop1.jpg)
-[![](img/workshop4_small.jpg "Ashok conducting Jembe Course")](img/workshop4.jpg)
-
-[![](img/ashok4.jpg "Ashok Kumar")](img/ashok4_large.jpg)
-[![](img/ashok_dancing_soul_small.jpg "Ashok Kumar")](img/ashok_dancing_soul.jpg)
-[![](img/ashok_look_small.jpg "Ashok Kumar")](img/ashok_look.jpg)
-[![](img/ashok_smile_small.jpg "Ashok Kumar")](img/ashok_smile.jpg)

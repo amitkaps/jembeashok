@@ -1,5 +1,7 @@
 ---
 layout: default
+name: quotes
+permalink: quotes
 ---
 
 <img class="lead" src="../img/quotes/change.png" title="Quotes - Change" />

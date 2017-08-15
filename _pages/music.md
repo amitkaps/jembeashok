@@ -4,16 +4,16 @@ name: music
 permalink: music
 ---
 
-## Music
+## Solo Jembe Perfomance 
 
-My musical journey began with the tabla and found fulfilment in the Jembe - an African drum. I am a true fusion musician, having played with Carnatic, Hindustani and even dabbled with electronica. In a fusion of the arts, I have even played for artist, BKS Varma who painted during my jembe recital. The Attakalari Centre for Movement Arts have used my skills in the arena of dance. I have also composed music for several plays including an India – Hong Kong production called 'Yours Most Obediently'. I am now working with my dream project – Shoonya.
+<p>
+<iframe width="355" height="200" src="//www.youtube.com/embed/-l-PwNyDwdU?" frameborder="0" 
+allowfullscreen=""></iframe>
+<iframe width="355" height="200" src="//www.youtube.com/embed/_2GNdpL9H7g?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</p>
 
-### Solo Peformances (with Jembe - African Drum)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/-l-PwNyDwdU?rel=0" frameborder="0" allowfullscreen=""></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/_2GNdpL9H7g?rel=0" frameborder="0" allowfullscreen=""></iframe>
-
-### Shoonya - A World Fusion Band
+## Shoonya - A World Fusion Band
 
 The Sanskrit word Shoonya translates to “Nothingness” - the Indian concept of how everything comes into being from nothingness. This ancient Indian concept could not be truer for music. Shoonya the band takes inspiration from their “nothingness” to create some of the most eclectic and genre defying music.
 
@@ -29,5 +29,7 @@ Shoonya is a collaborative platform for people from various artistic backgrounds
 
 Read more at [shoonyamusic.com](http://shoonyamusic.com)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/MUEQVUR40Jc?rel=0" frameborder="0" allowfullscreen=""></iframe>
-<iframe width="420" height="315" src="//www.youtube.com/embed/hRWhq2MLzo4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<p>
+<iframe width="355" height="200" src="//www.youtube.com/embed/MUEQVUR40Jc?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="355" height="200" src="//www.youtube.com/embed/hRWhq2MLzo4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<p>
