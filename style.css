@@ -204,9 +204,9 @@ blockquote {
   }
 
 .description {padding: 1.5rem 1.5rem 0.7rem 1.5rem;}
-.sub-text  {font-size: 0.7rem; padding: 0 1.5rem;}
+.sub-text  {font-size: 0.8rem; padding: 0 1.5rem;}
 .special  {
-  font-size: 0.7rem; 
+  font-size: 0.8rem; 
   padding: 0 1.5rem 1rem 1.5rem; 
   color: goldenrod;
 }
