@@ -1,7 +1,8 @@
 ---
 layout: default
-name: training
+title: training
 permalink: training
+nav: 3
 ---
 
 ## Acting Coach & Theatre Workshops

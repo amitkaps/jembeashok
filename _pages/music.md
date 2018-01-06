@@ -1,7 +1,8 @@
 ---
 layout: default
-name: music
+title: music
 permalink: music
+nav: 2
 ---
 
 ## Solo Jembe Perfomance 

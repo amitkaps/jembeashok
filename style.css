@@ -1,5 +1,7 @@
-*, *:before, *:after 
-  {box-sizing:  border-box !important;
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 @font-face {
@@ -14,7 +16,8 @@
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
   font-size: 16px;
   text-rendering: optimizeLegibility;
   line-height: 1.45rem;
@@ -44,33 +47,31 @@ nav > a:hover {
   color: #fff;  
 }
 
+.separator {
+  padding: 0 0.5rem;
+  color: #111
+}
+
 a {color: #aaa}
 a:hover {color: #fff}
-a:visited {}
 
 header {
   margin-top: 3rem;
   margin-bottom: 8rem;
-
 }
-
-blockquote {
-
-}
-
-
+/* 
 .lead {
 	max-width: 50rem;
   margin: 0 auto;
   padding: 1rem 1.5rem;
   position: relative;
-}
+} */
 
-.lead-img {
+/* .lead-img {
   width: 100%;
-}
+} */
 
-.lead-quote {
+/* .lead-quote {
 
 }
 
@@ -78,12 +79,9 @@ blockquote {
   line-height: 1rem;
   padding: 0.25rem;
   font-size: 1rem;
-}
+} */
 
-.separator {
-  padding: 0 0.5rem;
-  color: #111
-}
+
 
 h1 {
 	font-family: 'Kaushan Script', cursive;
@@ -118,6 +116,114 @@ blockquote {
 
 .contact {
 	text-align: center;
+}
+
+
+
+/* For all grids */
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 2rem;
+}
+
+/* For main page visual navigation */
+
+.pages { 
+  display: -webkit-box; 
+  display: -ms-flexbox; 
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  margin-left: -8px; /* Adjustment for the gutter */
+}
+
+.page {
+  -webkit-box-flex: 1;
+      -ms-flex: auto;
+          flex: auto;
+  height: 250px;
+  min-width: 150px;
+  margin: 0 8px 8px 0; /* Some gutter */
+  border: #fff 1px solid;
+}
+
+.page:nth-child(1) {width: 250px;}
+.page:nth-child(2) {width: 325px;}
+.page:nth-child(3) {width: 250px;}
+.page:nth-child(4) {width: 250px;}
+.page:nth-child(5) {width: 250px;}
+.page:nth-child(5) {width: 250px;}
+
+
+/* For all other grids */
+.grid {
+  column-width: 20rem;
+  column-gap: 1rem;
+  padding: 1rem 0;
+}
+
+.card {
+  -webkit-box-flex: 1;
+  -ms-flex: auto;
+  flex: auto;
+  min-width: 150px;
+  margin-bottom: 1rem;
+  -webkit-column-break-inside: avoid;
+  break-inside: avoid;
+  background-color: #000;
+  /* border: #ddd 1px solid; */
+}
+
+.upper, .lower{
+  position: relative;
+}
+
+.photo {
+  max-width: 100%;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-align: left;
+  position: absolute; 
+  bottom: 0.7rem; 
+  left: 0; 
+  width: 100%; 
+  margin: 0;
+  padding: 0;
+}
+
+.title-text { 
+  background: rgba(0, 0, 0, 0.7);
+  padding: 0.3rem 1rem 0.1rem 1.5rem; 
+  }
+
+.description {padding: 1.5rem 1.5rem 0.7rem 1.5rem;}
+.sub-text  {font-size: 0.7rem; padding: 0 1.5rem;}
+.special  {
+  font-size: 0.7rem; 
+  padding: 0 1.5rem 1rem 1.5rem; 
+  color: goldenrod;
+}
+
+/* For Youtube Embeds */
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 

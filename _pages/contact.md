@@ -1,9 +1,13 @@
 ---
 layout: default
-name: contact
+title: contact
 permalink: contact
-
+nav: 5
 ---
+
+My acting journey began with joining a theatre company for 4 years, where I discovered the actor within. My devotion to this art has led me to play various roles from Jesus Christ to Karna of Mahabharatha. To hone my theatre skills further, I spent a year with Khalid Tyabji’s theatre ensemble in Hampi. Off the stage, I have tried a hand at everything from set design to direction. My acting has led me to be part of many prestigious theatre festivals and being included three times in the National Theatre Festivals organized by Sangeet Natak Academy. I have played lead roles in various Kannada Theater for more than 15 production over the last decade.
+
+
 
 ## Contact
 - email: [jembeashok@gmail.com](mailto:jembeashok@gmail.com?ubject=Hello)

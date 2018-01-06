@@ -1,0 +1,133 @@
+- type: theatre
+  lang: kannada
+  title: Pampa Bharatha
+  small: pampa_bharatha.jpg
+  large: pampa_bharatha_large.jpg
+  alt: Ashok as Karna in Pampa Bharatha Play
+  role: Lead role of Karna in this retelling of Mahabharatha through his point of view. 
+  group: Samudaya
+  director: Pramod Shiggaon
+  award: Selected for National Theatre Festival-2013 
+
+- type: theatre
+  lang: kannada
+  title: Nam Tim Tana
+  small: beechi.jpg
+  large: beechi_large.jpg
+  alt: Ashok in Beechi's Play
+  role: Lead role of a modern guru's grey side in this black comedy based on Beechi's short stories.
+  group: WASP
+  director: ...
+
+- type: theatre
+  lang: kannada
+  title: Maduve Hennu
+  small: blank.png
+  large: blank.png
+  alt: Ashok in Maduve Hennu
+  role: Lead role of the bridegroom in this tragic play written by H S Shivaprakash to explore the cruel irony of human condition and of man's relationship with nature.
+  group: Aneka
+  director: Suresh Anagalli
+
+- type: theatre
+  lang: kannada
+  title: Sahebara Sarkeetu
+  small: sahebara-sarkeetu.jpg
+  large: sahebara-sarkeetu_large.jpg
+  alt: Ashok in Sahebara Sarkeetu
+  role: Lead role in this humourous play on the challenges in public education, based on a autobiography of a teacher, set in the post-independence era.
+  group: Kriyative Theatre
+  director: Pramod Shiggaon
+
+- type: theatre
+  lang: kannada
+  title: Enemy of the People 
+  small: ibsen.jpg
+  large: ibsen_large.jpg
+  alt: Ashok playing a doctor in Ibsen's Enemy of the People
+  role: Lead role of the doctor in the Ibsen's play about truth and morality.
+  group: Samudaya
+  director: Pramod Shiggaon
+
+- type: theatre
+  lang: kannada
+  title: Hamlet
+  small: blank.png
+  large: blank.png
+  alt: Ashok in Maduve Hennu
+  role: Lead role of Hamlet - the dark side in this original Shakespearan play.
+  group: ...
+  director: Iqbal Ahmad
+
+- type: theatre
+  lang: kannada
+  title: Maranayaka
+  small: macbeth.jpg
+  large: macbeth_large.jpg
+  alt: Ashok in Macbeth
+  role: Lead role of Macbeth in this Kannada adapatation of the original Shakespearan play.
+  group: Aneka
+  director: Suresh Anagalli
+
+- type: theatre
+  lang: kannada
+  title: Woyzeck
+  small: woyzeck.jpg 
+  large: woyzeck_large.jpg
+  alt: Ashok in Woyzeck
+  role: Lead role in this German play on the theme of working class tragedy.
+  group: Rafiki
+  director: Anmol Vellani
+
+
+- type: theatre
+  lang: english
+  title: Lysistrata
+  small: blank.png
+  large: blank.png
+  alt: Music by Ashok in Lysistrata
+  role: Composed background music for this historic greek comic play about one women's mission to end the Peloponnesian War.
+  group: Jagriti
+  director: Jeff Teare
+
+- type: film
+  lang: kannada
+  title: Prakruti
+  small: prakruti.jpg 
+  large: prakruti_large.jpg
+  alt: Ashok in Prakruti Film
+  role: The film radiates the deracination of the marginalised agrarian people sunk in bare living and social distress. Also, it explores the dichotomy of the values, systems, consideration and priorities during the troubled times of migration from rural to urban.
+  desc: A feature film based on a U R Ananthmurthy's short story
+  group: ArtFilms
+  award: National Award 2014 for the Best Adapted Screenplay, Karnataka Chalanachitra Academy Award Special Jury Award for Film 2014 BIFFES
+  video: PlqjV3ELqPM
+
+- type: film
+  lang: kannada
+  title: Padmavathi
+  small: woyzeck.jpg 
+  large: woyzeck_large.jpg
+  alt: Ashok in Padmavathi TV Serios
+  role: Role of a virtuous chief priest of the Goddess Padmavathi temple, whose beliefs are tested when his daughter want to marry out of his community.
+  group: Colors
+  award: Nominated - Best Supporting Actor in Kannada TV (2017)
+  video: nWmPKA8jaSM
+
+- type: film
+  lang: kannada
+  title: Anuroopa
+  small: anuroopa.jpg 
+  large: anuroopa_large.jpg
+  alt: Ashok in Anuroopa TV Serial
+  role: Role of a clever politician, misusing his political power for his personal benefit.
+  group: Suvarna
+  award: Nominated - Best Villain in Kannada TV (2016)
+  video: XFORrwEh4qw
+
+
+
+
+
+
+
+

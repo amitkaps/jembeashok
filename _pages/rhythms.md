@@ -1,7 +1,8 @@
 ---
 layout: default
-name: rhythms
+title: rhythms
 permalink: rhythms
+nav: 7
 ---
 
 ## Rhythms & Exercises

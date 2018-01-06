@@ -1,8 +1,8 @@
 ---
 layout: default
-name: sacred
+title: sacred
 permalink: sacred
-
+nav: 8
 ---
 
 ## Sacred Music

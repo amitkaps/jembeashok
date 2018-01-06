@@ -1,7 +1,8 @@
 ---
 layout: default
-name: photos
+title: photos
 permalink: photos
+nav: 4
 ---
 
 <div class="img-gallery">
