@@ -3,6 +3,7 @@ layout: default
 title: rhythms
 permalink: rhythms
 nav: 7
+image: img/pages/about.jpg
 ---
 
 <style>

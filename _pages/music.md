@@ -3,6 +3,8 @@ layout: default
 title: music
 permalink: music
 nav: 2
+menu: true
+image: img/pages/music.jpg
 ---
 
 ## Solo Jembe Perfomance 

@@ -3,11 +3,12 @@ layout: default
 title: acting
 permalink: acting
 nav: 1
+menu: true
+image: img/pages/acting.jpg
 ---
 
 {% assign films = site.data.acting | where:"type", "film" %} 
 
-<div class="container">
 <div class="grid">
 {% for act in films %}
   <div class="card">
@@ -27,10 +28,8 @@ nav: 1
   </div>
 {% endfor %}
 </div>
-</div>
 
 {% assign plays = site.data.acting | where:"type", "theatre" %} 
-<div class="container">
 <div class="grid">
 {% for act in plays %}
   <div class="card">
@@ -41,9 +40,8 @@ nav: 1
       <p class="title"> <span class="title-text"> {{ act.title | upcase }} </span> </p>
     </div>
     <p class="description"> {{ act.role }} </p>
-    <p class="sub-text"> {{ act.group | upcase }} [Director: {{ act.director }}] </p>
+    <p class="sub-text"> {{ act.group | upcase }} | Director: {{ act.director }} </p>
     <p class="special"> {{ act.award | upcase }} </p>
   </div>
 {% endfor %}
-</div>
 </div>

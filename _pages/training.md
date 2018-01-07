@@ -3,6 +3,8 @@ layout: default
 title: training
 permalink: training
 nav: 3
+menu: true
+image: img/pages/training.jpg
 ---
 
 ## Acting Coach & Theatre Workshops
