@@ -92,15 +92,14 @@
 
 - type: film
   lang: kannada
-  title: Prakruti
-  small: prakruti.jpg 
-  large: prakruti_large.jpg
-  alt: Ashok in Prakruti Film
-  role: Lead role of a rural farmer in the film based UR Ananthmurthy's short story which exploresthe dichotomy of the values and priorities during the troubled times of migration from rural to urban.
-  desc: A feature film based on a U R Ananthmurthy's short story
-  group: ArtFilms
-  award: National Award 2014 for the Best Adapted Screenplay, Karnataka Chalanachitra Academy Award Special Jury Award for Film 2014 BIFFES
-  video: PlqjV3ELqPM
+  title: Anuroopa
+  small: anuroopa.jpg 
+  large: anuroopa_large.jpg
+  alt: Ashok in Anuroopa TV Serial
+  role: Role of a clever politician, misusing his political power for his personal benefit.
+  group: Suvarna
+  award: Nominated - Best Villain in Kannada TV (2016)
+  video: XFORrwEh4qw
 
 - type: film
   lang: kannada
@@ -115,16 +114,15 @@
 
 - type: film
   lang: kannada
-  title: Anuroopa
-  small: anuroopa.jpg 
-  large: anuroopa_large.jpg
-  alt: Ashok in Anuroopa TV Serial
-  role: Role of a clever politician, misusing his political power for his personal benefit.
-  group: Suvarna
-  award: Nominated - Best Villain in Kannada TV (2016)
-  video: XFORrwEh4qw
-
-
+  title: Prakruti
+  small: prakruti.jpg 
+  large: prakruti_large.jpg
+  alt: Ashok in Prakruti Film
+  role: Lead role of a rural farmer in the film based UR Ananthmurthy's short story which exploresthe dichotomy of the values and priorities during the troubled times of migration from rural to urban.
+  desc: A feature film based on a U R Ananthmurthy's short story
+  group: ArtFilms
+  award: National Award 2014 for the Best Adapted Screenplay, Karnataka Chalanachitra Academy Award Special Jury Award for Film 2014 BIFFES
+  video: PlqjV3ELqPM
 
 
 
