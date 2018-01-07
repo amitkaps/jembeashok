@@ -47,6 +47,3 @@ nav: 1
 {% endfor %}
 </div>
 </div>
-
-
-<!-- <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/{{ act.video }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen  class="video"></iframe> -->

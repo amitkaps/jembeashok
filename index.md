@@ -13,9 +13,12 @@ layout: default
 <div class="pages">
 {% for page in sorted_pages %}
   <div class="page">
-    <a href="{{ page.url}}">
-      <p class="title"> <span> {{page.title}} </span> </p>
-    </a>
+    <div class="upper">
+      <a href="{{ page.url}}" alt="{{ page.title }}">
+        <img class="photo" src="img/acting/{{ act.small }}">
+        <p class="title"> <span class="title-text"> {{ page.title | upcase }} </span> </p>
+      </a>
+    </div>
   </div>
 {% endfor %}
 </div>
