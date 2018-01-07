@@ -1,5 +1,6 @@
 
 <script>
+// For youtube embeds with image already downloaded
  ( function() {
    var youtube = document.querySelectorAll( ".youtube" );
    for (var i = 0; i < youtube.length; i++) {
@@ -9,7 +10,7 @@
             iframe.setAttribute( "allowfullscreen", "" );
             iframe.setAttribute( "gesture", "media");
             iframe.setAttribute( "allow", "encrypted-media");
-            iframe.setAttribute( "src", "//www.youtube-nocookie.com/embed/"+ this.dataset.id +"?rel=0&amp;controls=0&showinfo=0&autoplay=1" );
+            iframe.setAttribute( "src", "//www.youtube-nocookie.com/embed/"+ this.dataset.id +"?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1" );
             this.innerHTML = "";
             this.appendChild( iframe );
       } );

@@ -5,6 +5,20 @@ permalink: rhythms
 nav: 7
 ---
 
+<style>
+@font-face {
+    font-family: 'djemberegular';
+    src: url('../fonts/djembe45-webfont.eot');
+    src: url('../fonts/djembe45-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/djembe45-webfont.woff') format('woff'),
+         url('../fonts/djembe45-webfont.ttf') format('truetype'),
+         url('../fonts/djembe45-webfont.svg#djemberegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+</style>
+
 ## Rhythms & Exercises
 
 ### Exercise #1
