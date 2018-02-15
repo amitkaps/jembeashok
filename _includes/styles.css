@@ -182,6 +182,10 @@ blockquote {
   min-height: 100px;
 }
 
+.upper a{
+  text-decoration: none;
+}
+
 .photo {
   max-width: 100%;
 }
