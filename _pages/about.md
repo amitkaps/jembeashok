@@ -7,8 +7,14 @@ menu: true
 image: img/pages/about.jpg
 ---
 
-My acting journey began with joining a theatre company for 4 years, where I discovered the actor within. My devotion to this art has led me to play various roles from Jesus Christ to Karna of Mahabharatha. To hone my theatre skills further, I spent a year with Khalid Tyabji’s theatre ensemble in Hampi. Off the stage, I have tried a hand at everything from set design to direction. My acting has led me to be part of many prestigious theatre festivals and being included three times in the National Theatre Festivals organized by Sangeet Natak Academy. I have played lead roles in various Kannada Theater for more than 15 production over the last decade.
+My acting journey began with joining a theatre company for 4 years, where I discovered the actor within. My devotion to this art has led me to play various roles from Jesus Christ to Karna of Mahabharatha. To hone my theatre skills further, I spent a year with Khalid Tyabji’s theatre ensemble in Hampi. Off the stage, I have tried a hand at everything from set design to direction. My acting has led me to be part of many prestigious theatre festivals and being included three times in the National Theatre Festivals organized by Sangeet Natak Academy. I have played lead roles in various Kannada Theater for more than 15 productions over the last two decades.
 
+
+My musical journey began with the tabla and found fulfilment in the Jembe - an African drum. I am a true fusion musician, having played with Carnatic, Hindustani and even dabbled with electronica. In a fusion of the arts, I have even played for artist, BKS Varma who painted during my jembe recital. The Attakalari Centre for Movement Arts have used my skills in the arena of dance. I have also composed music for several plays including an India – Hong Kong production called 'Yours Most Obediently'. I am now working with my dream project – Shoonya.
+
+I have extensively used theatre in the field of education and have presented a much appreciated paper on Social Development through theatre. My varied experiments in using theatre as a method of learning got him invited to Mahtomedi Public School, Minneapolis, where I designed and executed a theatre workshop on the theme 'Beyond the Borders' in 2003-4\. Theatre and music were used to assist young people address social, cultural and personal concerns. I presented a paper on Creative Use of Drama and Music in Educations. The Ministry of Human Resource Development awarded me a scholarship for this work.
+
+I have also used theatre as a medium of commuincation in the education and corporate sector, having done stress management, team building workshops for companies like Motorola, Msource, educational institutes like Christ University, IIMB, Azim Premji University & for social organisations like Quest, Madhyam, Eklavaya, Natya Chetna, BITA (Bangladesh) etc.
 
 
 ## Contact

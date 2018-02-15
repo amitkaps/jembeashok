@@ -1,37 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content=" {{ site.description }}">
-  <meta name="author" content="{{ site.name }}">
-  <title>Ashok Kumar | Jembe, Actor, Coach</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content=" {{ site.description }}">
+<meta name="author" content="{{ site.name }}">
+<title>Ashok Kumar | Jembe, Actor, Coach</title>
 
-  <style>
-    {% include styles.css %}
-  </style>
+{% capture styles %}
+  {% include styles.css %}
+{% endcapture %}
 
+<style>
+  {{ styles | scssify }}
+</style>
 </head>
 
 <body>
-  <nav>
-    <a href="/">HOME</a>
-    <span class="separator">| </span> <a href="/acting">ACTING</a>
-    <span class="separator">| </span> <a href="/music">MUSIC</a>
-    <span class="separator">| </span> <a href="/training">TRAINING</a>
-    <span class="separator">| </span> <a href="/photos">PHOTOS</a>
-    <span class="separator">| </span> <a href="/about">ABOUT</a>
-  </nav>
-         
-  <header>
-    <a href="/"> 
-      <img src="img/jembeashok.svg" alt="Jembe Ashok">
-    </a>
-    <!-- 
-      <h1> <a href="/">jembe ashok</a></h1>   
-      <p class="contact"> 
-        <a href="mailto:jembeashok@gmail.com?subject=Contact">jembeashok@gmail.com</a> 
-        | <a href="tel:+91 9980 344 788">+91 9980 344 788</a> 
-    </p> -->
-  </header>
+<nav>
+    <span class="navlink"> <a href="/">HOME</a> </span>
+    <span class="navlink"> <a href="/acting">ACTING</a> </span>
+    <span class="navlink"> <a href="/music">MUSIC</a> </span>
+    <span class="navlink"> <a href="/training">TRAINING</a> </span>
+    <span class="navlink"> <a href="/photos">PHOTOS</a> </span>
+    <span class="navlink"> <a href="/about">ABOUT</a> </span>
+</nav>
+  
+<header>
+  <a href="/"> 
+    <img src="img/jembeashok.svg" alt="Jembe Ashok">
+  </a>
+  <!-- <h1> <a href="/">jembe ashok</a></h1> -->
+</header>

@@ -7,13 +7,13 @@ menu: true
 image: img/pages/photos.jpg
 ---
 
-<div class="gallery">
-{% for photos in site.data.photos %}
+<div class="grid-4">
+{% for photo in site.data.photos %}
   <div class="card">
-    <a class="img-link" href="img/{{ photos.large }}" alt="{{ photos.title}}">
-      <img class="img-photo" src="img/{{ photos.small }}">
+    <a class="img-link" href="img/photos/{{ photo.large }}">
+      <img class="img-photo" src="img/photos/{{ photo.small }}" alt="{{ photo.desc }}">
     </a>
-    <p class="img-desc"> {{ photos.desc}} </p>
+    <p class="img-desc"> {{ photo.desc}} </p>
   </div>
 {% endfor %}
 </div>

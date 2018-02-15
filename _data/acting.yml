@@ -1,5 +1,4 @@
 - type: theatre
-  lang: kannada
   title: Pampa Bharatha
   small: pampa_bharatha.jpg
   large: pampa_bharatha_large.jpg
@@ -10,7 +9,6 @@
   award: Selected for National Theatre Festival-2013 
 
 - type: theatre
-  lang: kannada
   title: Nam Tim Tana
   small: beechi.jpg
   large: beechi_large.jpg
@@ -20,7 +18,6 @@
   director: ...
 
 - type: theatre
-  lang: kannada
   title: Maduve Hennu
   small: blank.png
   large: blank.png
@@ -30,7 +27,6 @@
   director: Suresh Anagalli
 
 - type: theatre
-  lang: kannada
   title: Sahebara Sarkeetu
   small: sahebara-sarkeetu.jpg
   large: sahebara-sarkeetu_large.jpg
@@ -40,7 +36,6 @@
   director: Pramod Shiggaon
 
 - type: theatre
-  lang: kannada
   title: Enemy of the People 
   small: ibsen.jpg
   large: ibsen_large.jpg
@@ -50,7 +45,6 @@
   director: Pramod Shiggaon
 
 - type: theatre
-  lang: kannada
   title: Hamlet
   small: blank.png
   large: blank.png
@@ -60,7 +54,6 @@
   director: Iqbal Ahmad
 
 - type: theatre
-  lang: kannada
   title: Maranayaka
   small: macbeth.jpg
   large: macbeth_large.jpg
@@ -70,7 +63,6 @@
   director: Suresh Anagalli
 
 - type: theatre
-  lang: kannada
   title: Woyzeck
   small: woyzeck.jpg 
   large: woyzeck_large.jpg
@@ -81,7 +73,6 @@
 
 
 - type: theatre
-  lang: english
   title: Lysistrata
   small: blank.png
   large: blank.png
@@ -91,7 +82,6 @@
   director: Jeff Teare
 
 - type: film
-  lang: kannada
   title: Anuroopa
   small: anuroopa.jpg 
   large: anuroopa_large.jpg
@@ -102,7 +92,6 @@
   video: XFORrwEh4qw
 
 - type: film
-  lang: kannada
   title: Padmavathi
   small: padmavathi.jpg 
   large: padmavathi.jpg
@@ -113,13 +102,11 @@
   video: nWmPKA8jaSM
 
 - type: film
-  lang: kannada
   title: Prakruti
   small: prakruti.jpg 
   large: prakruti_large.jpg
   alt: Ashok in Prakruti Film
-  role: Lead role of a rural farmer in the film based UR Ananthmurthy's short story which exploresthe dichotomy of the values and priorities during the troubled times of migration from rural to urban.
-  desc: A feature film based on a U R Ananthmurthy's short story
+  role: Lead role of a farmer in this film based on UR Ananthmurthy's short story, which explores the dichotomy of values during the troubled times of migration from rural to urban.
   group: ArtFilms
   award: National Award 2014 for the Best Adapted Screenplay, Karnataka Chalanachitra Academy Award Special Jury Award for Film 2014 BIFFES
   video: PlqjV3ELqPM

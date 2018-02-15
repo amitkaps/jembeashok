@@ -17,7 +17,6 @@ image: img/pages/about.jpg
     font-weight: normal;
     font-style: normal;
 }
-
 </style>
 
 ## Rhythms & Exercises

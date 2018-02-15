@@ -7,12 +7,10 @@ menu: true
 image: img/pages/quotes.jpg
 ---
 
-<div class="quotes">
+<div class="grid-2">
 {% for quote in site.data.quotes %}
-  <div class="quote">
     <a href="../img/quotes/{{ quote.link }}">
       <img class="photo" alt="{{ quote.alt}}" src="../img/quotes/{{ quote.link }}">
     </a>
-  </div>
 {% endfor %}
 </div>
