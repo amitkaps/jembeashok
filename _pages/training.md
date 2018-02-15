@@ -21,7 +21,7 @@ image: img/pages/training.jpg
       <p class="title"> <span class="title-text"> {{ item.title | upcase }} </span> </p>
     </div>
     <p class="description"> {{ item.role }} </p>
-    <p class="special">{{ item.more | upcase }}</p>
+    <p class="special">{{ item.more }}</p>
     <!-- <div class="youtube" data-id="{{ item.video }}">
       <img src="img/music/youtube-{{ item.video }}.jpg" alt="{{ item.alt }}-video">
       <div class="play"></div>
@@ -43,7 +43,7 @@ image: img/pages/training.jpg
       <p class="title"> <span class="title-text"> {{ item.title | upcase }} </span> </p>
     </div>
     <p class="description"> {{ item.role }} </p>
-    <p class="special">{{ item.more | upcase }}</p>
+    <p class="special">{{ item.more }}</p>
     <!-- <div class="youtube" data-id="{{ item.video }}">
       <img src="img/music/youtube-{{ item.video }}.jpg" alt="{{ item.alt }}-video">
       <div class="play"></div>
