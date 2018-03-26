@@ -179,7 +179,7 @@ blockquote {
 
 .upper{
   position: relative;
-  min-height: 100px;
+  min-height: 80px;
 }
 
 .upper a{
@@ -190,14 +190,14 @@ blockquote {
   max-width: 100%;
 }
 
-.title {
+.title-main {
   font-size: 1.8rem;
   line-height: 2.8rem; 
   font-weight: 800;
   text-align: left;
   position: relative; 
   bottom: 3.2rem; 
-  left: 0; 
+  left: 0rem; 
   width: 100%; 
   margin: 0;
   padding: 0;
@@ -208,6 +208,13 @@ blockquote {
   padding: 0.5rem 1.5rem 0.5rem 1.5rem; 
 }
 
+
+.title {
+  font-size: 1.8rem;
+  line-height: 2.8rem; 
+  font-weight: 800;
+  padding: 0.2rem 0rem 0.3rem 1.5rem; 
+}
 .description {padding: 0rem 1.5rem 0.3rem 1.5rem;}
 .sub-text  {font-size: 0.8rem; padding: 0 1.5rem;}
 .special{

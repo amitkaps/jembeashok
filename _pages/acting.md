@@ -16,7 +16,7 @@ image: img/pages/acting.jpg
       <a href="img/acting/{{ item.large }}">
         <img class="photo" src="img/acting/{{ item.small }}" alt="{{ item.alt }}">
       </a>
-      <p class="title"> <span class="title-text"> {{ item.title }} </span> </p>
+      <p class="title"> {{ item.title }} </p>
     </div>
     <p class="description"> {{ item.role }} </p>
     <p class="sub-text"> Produced by {{ item.group }}</p>
@@ -37,7 +37,7 @@ image: img/pages/acting.jpg
       <a href="img/acting/{{ item.large }}">
         <img class="photo" src="img/acting/{{ item.small }}" alt="{{ item.alt }}">
       </a>
-      <p class="title"> <span class="title-text"> {{ item.title }} </span> </p>
+      <p class="title"> {{ item.title }} </p>
     </div>
     <p class="description"> {{ item.role }} </p>
     <p class="sub-text"> {{ item.group | upcase }} | Director: {{ item.director }} </p>

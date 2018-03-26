@@ -14,7 +14,7 @@ image: img/pages/music.jpg
       <a href="img/music/{{ item.large }}">
         <img class="photo" src="img/music/{{ item.small }}" alt="{{ item.alt }}">
       </a>
-      <p class="title"> <span class="title-text"> {{ item.title | upcase }} </span> </p>
+      <p class="title">{{ item.title }} </p>
     </div>
     <p class="description"> {{ item.role }} </p>
     <p class="sub-text">{{ item.more }}</p>

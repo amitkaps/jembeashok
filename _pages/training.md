@@ -18,7 +18,7 @@ image: img/pages/training.jpg
       <a href="img/training/{{ item.large }}">
         <img class="photo" src="img/training/{{ item.small }}" alt="{{ item.alt }}">
       </a>
-      <p class="title"> <span class="title-text"> {{ item.title | upcase }} </span> </p>
+      <p class="title">{{ item.title }} </p>
     </div>
     <p class="description"> {{ item.role }} </p>
     <p class="special">{{ item.more }}</p>
@@ -40,7 +40,7 @@ image: img/pages/training.jpg
       <a href="img/training/{{ item.large }}">
         <img class="photo" src="img/training/{{ item.small }}" alt="{{ item.alt }}">
       </a>
-      <p class="title"> <span class="title-text"> {{ item.title | upcase }} </span> </p>
+      <p class="title"> {{ item.title }} </p>
     </div>
     <p class="description"> {{ item.role }} </p>
     <p class="special">{{ item.more }}</p>

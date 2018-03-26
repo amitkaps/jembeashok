@@ -12,7 +12,7 @@ layout: default
     <div class="upper">
       <a href="{{ page.url}}" alt="{{ page.title }}">
         <img class="photo" src="{{ page.image }}" alt="Jembe Ashok - {{ page.title }}">
-        <p class="title"> <span class="title-text"> {{ page.title | upcase }} </span> </p>
+        <p class="title-main"> <span class="title-text"> {{ page.title | upcase }} </span> </p>
       </a>
     </div>
   </div>
